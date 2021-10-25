@@ -1,0 +1,35 @@
+ body {
+            background-color: #eeeeaa;
+        }
+hr {
+            border-style: dotted none none none;
+            border-color: black;
+            border-width: 10px;
+            width: 5%;
+        }
+h1 {
+    color: #D98C00;
+}
+h3 {
+    color: #D98C00;
+}
+fieldset {
+    border: unset;
+    background-color: white;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input {
+    border-top: unset;
+    border-right: unset;
+    border-left: unset;
+    background-color: unset;
+}
+table {
+    padding: 5px;
+    padding-right: unset;
+}
+#submit {
+    border-radius: 15px;
+}
